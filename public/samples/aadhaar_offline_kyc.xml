@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfflinePaperlessKyc referenceId="20241031120000">
+  <UidData uid="XXXXXXXX4821">
+    <Poi name="Aarav Mehta" dob="1996-03-14" gender="M"/>
+    <Poa country="India" state="Karnataka" dist="Bengaluru Urban" pc="560001"/>
+  </UidData>
+  <Citizenship status="Indian Citizen"/>
+</OfflinePaperlessKyc>
+-----BEGIN VZK SIGNATURE-----
+Authority: UIDAI (Demo Trust Anchor)
+Key-Id: uidai-demo
+Key-Fingerprint: 1eb0070fe56036e9
+Algorithm: RSA-SHA256-PKCS1v1.5
+Signed-At: 2024-10-31T12:00:00Z
+Signature: qtKBGFple8qw/M/vi2vwYM/Z6olxN1xKEczg4lZqza4qARfu5o1aeyiygYCK4XgjpfDZdlgMw7O5WNW4/yDSVU2m/fimTrkSnJ0oFdWaz1/UHKZETIzOBOSbb/g9FXkJ5AoflxXqT+EBzLgt4SZN+L2Nxw225cSe2XEPrvxGBn2MFHvHQlsWJH/U69LBrqTRAiQ+DgP7iRMUNP0qgznLVTSs8Pe6o9HxquHPcFHbVI0SMK7mFXcC+S6zwImgiiVnmi2huo4L1L6GQptubUowuNE6Gb5UgV57kCsWijBCtGypF8iuJony2eYOU5SbgQTlfMF7n5AhZNq4evPViCbnCA==
+-----END VZK SIGNATURE-----

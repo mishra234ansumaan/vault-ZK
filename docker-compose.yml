@@ -1,0 +1,30 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/app_db
+      OLLAMA_HOST: http://ollama:11434
+      OLLAMA_MODEL: gemma2:2b
+    depends_on:
+      - db
+      - ollama
+
+  # Only backs the /api/health probe. No user data is ever written here.
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: app_db
+
+  # Local Gemma. After `docker compose up`, run:  docker compose exec ollama ollama pull gemma2:2b
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama:/root/.ollama
+
+volumes:
+  ollama:

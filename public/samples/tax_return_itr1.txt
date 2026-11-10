@@ -1,0 +1,17 @@
+INCOME TAX RETURN ACKNOWLEDGEMENT - ITR-1
+Assessment Year: 2024-25
+Taxpayer Name: Aarav Mehta
+PAN: ABCPM1234Z
+Gross Total Income: $76,800
+Total Tax Paid: $9,216
+Net Worth Declared: $212,000
+Years of Employment: 7
+Filing Date: 2024-07-28
+-----BEGIN VZK SIGNATURE-----
+Authority: Revenue Authority (Demo Trust Anchor)
+Key-Id: revenue-demo
+Key-Fingerprint: 0667a2f960740b3d
+Algorithm: RSA-SHA256-PKCS1v1.5
+Signed-At: 2024-07-28T10:00:00Z
+Signature: aLYgAgKQTcjcpBhyBpKeQ6cUTHdf/ApvrvCkqXQ5WEGFZe9x2q0Y17h7Dhlai17Vd0rffj9PBs7ffv3qr1diKSrXL4eqb9DL8xhk34GcE3/hjkRnTtR2PC/eWBadorjbR23QxQxaKdlxwRI0TEw2syzXRfU9WVHnyQcilFmIfpLyHLuAt2hIIWY8us7fnvFdfBaVveZnWBP7OSyQ7NulKmr2KpsHfNdF15k5zhBQinAiSkpf+Xm5I0H+/b0YPrAZwFNI5u2SfDf1EI5zh/vvDJm9unIDygUOvT3soIUhkeBikvCO8Hk/QbaROOy6MWKMKbOLcF8N1aTrFYVbNLL9LQ==
+-----END VZK SIGNATURE-----

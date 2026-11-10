@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-11-09T23:02:30.294Z",
+  "curve": "bn128",
+  "protocol": "groth16",
+  "circuits": [
+    {
+      "name": "range",
+      "vkey": 5
+    },
+    {
+      "name": "logic",
+      "vkey": 16
+    }
+  ]
+}

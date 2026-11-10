@@ -1,0 +1,24 @@
+DEMO BANK OF INDIA - ACCOUNT STATEMENT
+Statement Period: 2024-10-01 to 2024-10-31
+Account Holder: Aarav Mehta
+Account Number: XXXXXXXX4821
+IFSC: DEMO0001234
+
+Opening Balance: $79,120.00
+Salary Credit (ACME Technologies Pvt Ltd): $6,400.00
+Rent Debit: -$1,250.00
+Utilities Debit: -$220.00
+Card Payments: -$0,000.00
+Closing Balance: $984,250.00
+
+Monthly Income: $6,400
+Statement Date: 2024-10-31
+Credit Score (Bureau Reported): 782
+-----BEGIN VZK SIGNATURE-----
+Authority: Demo Bank Certificate Authority
+Key-Id: bank-demo
+Key-Fingerprint: 009b20fb8685a293
+Algorithm: RSA-SHA256-PKCS1v1.5
+Signed-At: 2024-10-31T18:00:00Z
+Signature: 38sgDHDMr2XBalgwMjcsMv9bFqMs7+VXABq0DXKDveRnTNBKcn+gEqRW+5HXhw7ZU2gmT5eDc0ybhNfMnYk/HXGRdzjKrWW5UX6SDwig7zX7/1OjBbSd5IhjpoJL5l+wenTdVCkK4OIxxxLlgrx+DfJDKNviMOzUXiEixkvSduxrIoS5sCd1A2Op/yuNtLZbmJXQ2rPcRVrkusvgHbBR3zo6pxd0nJKsIYTI1D5sDN4dESTtnxROowYwUx+b2BBhIgTdifKwU90GFR9j7uU9FRyHiBqEF4rM35/z6V6tI2VmTMRzMPjQ76LuxFYygR4BdPlyTcEzOYaBQgHO919Y5A==
+-----END VZK SIGNATURE-----
